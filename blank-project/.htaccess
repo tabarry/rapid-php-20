@@ -1,0 +1,3 @@
+#Directory browsing off
+Options -Indexes
+RewriteEngine off
